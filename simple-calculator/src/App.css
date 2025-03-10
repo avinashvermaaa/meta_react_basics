@@ -1,0 +1,23 @@
+.calculator {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  width: 200px;
+  padding: 8px;
+  margin: 10px;
+}
+
+.buttons button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.reset {
+  background-color: #ff6347;
+  color: white;
+  border: none;
+  padding: 10px;
+}
